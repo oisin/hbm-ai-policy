@@ -1,5 +1,4 @@
-# hbm-ai-policy
-The Human Brain Meat AI Policy
+# The Human Brain Meat AI Policy
 
 I concocted this policy when I set up [Chunky Labs](http://chunkylabs.com), my consultancy firm. The point was to let my clients-to-be know that when they were contracting me, that I would be doing the work myself rather than phoning it in via a mediocrity machine.
 
